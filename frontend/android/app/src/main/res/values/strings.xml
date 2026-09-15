@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">OSHC Medibank</string>
+    <string name="title_activity_main">OSHC Medibank</string>
+    <string name="package_name">au.edu.oshc.medibank</string>
+    <string name="custom_url_scheme">au.edu.oshc.medibank</string>
+</resources>

@@ -1,0 +1,14 @@
+au\edu\oshc\smartguide\PasswordResetService.class
+au\edu\oshc\smartguide\OshcSmartGuideApplication.class
+au\edu\oshc\smartguide\Progress.class
+au\edu\oshc\smartguide\User.class
+au\edu\oshc\smartguide\PasswordResetToken.class
+au\edu\oshc\smartguide\PasswordResetTokenRepository.class
+au\edu\oshc\smartguide\ScenarioController.class
+au\edu\oshc\smartguide\MfaService.class
+au\edu\oshc\smartguide\ProgressController.class
+au\edu\oshc\smartguide\ProfileController.class
+au\edu\oshc\smartguide\ProgressRepository.class
+au\edu\oshc\smartguide\AuthController.class
+au\edu\oshc\smartguide\SecurityConfig.class
+au\edu\oshc\smartguide\UserRepository.class

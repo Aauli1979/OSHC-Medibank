@@ -1,0 +1,1 @@
+package au.edu.oshc.smartguide; import org.springframework.boot.SpringApplication; import org.springframework.boot.autoconfigure.SpringBootApplication; @SpringBootApplication public class OshcSmartGuideApplication{public static void main(String[]a){SpringApplication.run(OshcSmartGuideApplication.class,a);}}
